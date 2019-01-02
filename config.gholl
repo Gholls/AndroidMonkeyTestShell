@@ -1,0 +1,4 @@
+package=xx.xx.xx
+activity=xx.xx.xx/xxx.xxx.xxx
+#package=com.gholl.mosstribe
+#package=com.gholl.mosstribe/.ui.MainActivity
